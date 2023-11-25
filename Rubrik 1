@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title> Rubrik 1 </title>
+
+<style>
+        body {
+            background-color: #FFD1DC; 
+            margin: 0;
+            padding: 0;
+            font-type: Helvetica;
+            text-align: center;
+        }
+
+        h1 {
+            margin-top: 20px;
+            color: #FF1493;
+        }
+        .image-container {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 30px;
+        }
+        .image-container img {
+            width: 300px;
+            height: auto;
+            margin: 10px;
+        }
+
+</style>
+
+</head>
+
+<body>
+
+<br>
+<br>
+    <h1>Aktuelle Lage der Nutzung von Social Media</h1>
+<br>
+<br>
+
+    <div class="image-container">
+        <img src="https://i.pinimg.com/736x/94/90/d1/9490d1ed4a9a3cfbae96a72832d69a7c--statistics-netflix.jpg" alt="Image 1">
+        <img src="https://th.bing.com/th/id/OIP.mKembDMt15OjIYmZ_1edAQHaEK?rs=1&pid=ImgDetMain" alt="Image 2">
+        <img src="https://th.bing.com/th/id/R.00138d17dc40073fd229541c12b26068?rik=KMsfpKevnNN%2fzw&pid=ImgRaw&r=0" alt="Image 3">
+    </div>
+   
+<br>
+<br>
+
+</body>
+
+</html>
